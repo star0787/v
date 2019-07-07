@@ -1,2 +1,2 @@
-name = "art vandelay" # "ART VANDELAY"
+name = "art vandelay" 
 name.upper()
